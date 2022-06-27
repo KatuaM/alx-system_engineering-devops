@@ -1,2 +1,2 @@
 #!/bin/bash
-ls >> newfile.txt
+echo "Hello, World"
